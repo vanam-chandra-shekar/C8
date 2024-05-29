@@ -1,0 +1,4 @@
+-I./ray
+-I./util
+-I./chip8
+--std=c++20
